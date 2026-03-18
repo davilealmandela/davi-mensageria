@@ -26,7 +26,7 @@
     </div>
 </main>
 <footer>
-    <div>
+    <div class="botaoca">
         <a href="https://www.google.com/search?q=capoeira&rlz=1C1GCEA_enBR1200BR1200&oq=capoeir&gs_lcrp=EgZjaHJvbWUqDwgAEEUYOxixAxjJAxiABDIPCAAQRRg7GLEDGMkDGIAEMgYIARBFGDkyCggCEAAYkgMYgAQyDQgDEAAYkgMYgAQYigUyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYjwKoAgCwAgA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on#fpstate=ive&vld=cid:2f6303ff,vid:mPA4XNRdcpQ,st:0">
             <button>capoeira</button>
         </a>
